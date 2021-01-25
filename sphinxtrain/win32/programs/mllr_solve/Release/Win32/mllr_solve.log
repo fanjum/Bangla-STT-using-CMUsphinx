@@ -1,0 +1,10 @@
+﻿  main.c
+C:\sphinx\sphinxtrain\src\programs\mllr_solve\main.c(195,37): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\mllr_solve\main.c(198,51): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\mllr_solve\main.c(236,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mllr_solve\main.c(240,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mllr_solve\main.c(242,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mllr_solve\main.c(269,21): warning C4018: '<' : incompatibilité signed/unsigned
+  parse_cmd_ln.c
+  Génération de code en cours...
+  mllr_solve.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\mllr_solve\.\..\..\..\bin\Release\Win32\mllr_solve.exe

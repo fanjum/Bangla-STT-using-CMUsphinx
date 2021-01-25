@@ -1,0 +1,5 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  continuous.c
+C:\sphinx\pocketsphinx\src\programs\continuous.c(110,54): warning C4244: '=' : conversion de 'float64' en 'float', perte possible de données
+C:\sphinx\pocketsphinx\src\programs\continuous.c(175,57): warning C4267: '=' : conversion de 'size_t' en 'int32', perte possible de données
+  pocketsphinx_continuous.vcxproj -> C:\sphinx\pocketsphinx\\bin\Debug\x64\pocketsphinx_continuous.exe

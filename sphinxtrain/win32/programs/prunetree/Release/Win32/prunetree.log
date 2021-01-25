@@ -1,0 +1,5 @@
+﻿  main.c
+C:\sphinx\sphinxtrain\src\programs\prunetree\main.c(351,22): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+  parse_cmd_ln.c
+  Génération de code en cours...
+  prunetree.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\prunetree\.\..\..\..\bin\Release\Win32\prunetree.exe

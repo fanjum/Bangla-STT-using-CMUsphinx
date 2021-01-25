@@ -1,0 +1,102 @@
+﻿  acmod.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\acmod.c(186,76): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\acmod.c(191,76): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\acmod.c(542,38): warning C4267: '+=' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\acmod.c(642,59): warning C4244: '=' : conversion de '__int64' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\acmod.c(679,51): warning C4244: '=' : conversion de '__int64' en 'int32', perte possible de données
+  allphone_search.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\allphone_search.c(544,49): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\allphone_search.c(603,63): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+  bin_mdef.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\bin_mdef.c(123,52): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\bin_mdef.c(148,63): warning C4244: '=' : conversion de 'int16' en 'uint8', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\bin_mdef.c(149,63): warning C4244: '=' : conversion de 'int16' en 'uint8', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\bin_mdef.c(150,63): warning C4244: '=' : conversion de 'int16' en 'uint8', perte possible de données
+  blkarray_list.c
+  dict.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\dict.c(125,9): warning C4312: 'cast de type' : la conversion de 'long' en 'void *' d'une taille supérieure
+C:\sphinx\pocketsphinx\src\libpocketsphinx\dict.c(125,9): warning C4311: 'cast de type' : troncation de pointeur de 'void *' à 'long'
+C:\sphinx\pocketsphinx\src\libpocketsphinx\dict.c(236,62): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\dict.c(446,23): warning C4267: '=' : conversion de 'size_t' en 'int32', perte possible de données
+  dict2pid.c
+  fsg_history.c
+  fsg_lextree.c
+  fsg_search.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\fsg_search.c(215,47): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\fsg_search.c(224,61): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+  hmm.c
+  kws_detections.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\kws_detections.c(95,39): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+  kws_search.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\kws_search.c(690,68): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\kws_search.c(697,25): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+  mdef.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\mdef.c(108,41): warning C4312: 'cast de type' : la conversion de 'long' en 'void *' d'une taille supérieure
+C:\sphinx\pocketsphinx\src\libpocketsphinx\mdef.c(108,61): warning C4312: 'cast de type' : la conversion de 'long' en 'void *' d'une taille supérieure
+C:\sphinx\pocketsphinx\src\libpocketsphinx\mdef.c(363,41): warning C4244: 'fonction' : conversion de '__int64' en 'long', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\mdef.c(437,41): warning C4244: 'fonction' : conversion de '__int64' en 'long', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\mdef.c(461,21): warning C4312: 'cast de type' : la conversion de 'long' en 'void *' d'une taille supérieure
+C:\sphinx\pocketsphinx\src\libpocketsphinx\mdef.c(461,21): warning C4311: 'cast de type' : troncation de pointeur de 'void *' à 'long'
+C:\sphinx\pocketsphinx\src\libpocketsphinx\mdef.c(475,44): warning C4311: 'cast de type' : troncation de pointeur de 'void *' à 'long'
+  ms_gauden.c
+  ms_mgau.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_mgau.c(136,21): warning C4018: '>' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_mgau.c(139,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_mgau.c(219,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_mgau.c(227,16): warning C4018: '<' : incompatibilité signed/unsigned
+  ms_senone.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(118,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(224,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(225,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(240,27): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(314,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(325,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(376,19): warning C4018: '<' : incompatibilité signed/unsigned
+  ngram_search.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(93,19): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(136,60): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(721,36): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(1041,74): warning C4244: 'fonction' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(1186,28): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(1242,61): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  ngram_search_fwdflat.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ngram_search_fwdflat.c(709,60): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+  ngram_search_fwdtree.c
+  phone_loop_search.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\phone_loop_search.c(230,105): warning C4244: '=' : conversion de 'float64' en 'int32', perte possible de données
+  Génération de code en cours...
+  Compilation en cours...
+  pocketsphinx.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(299,45): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(319,66): warning C4244: 'fonction' : conversion de 'int32' en 'float32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(908,60): warning C4267: '+=' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(932,60): warning C4267: '=' : conversion de 'size_t' en 'long', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(942,60): warning C4267: '=' : conversion de 'size_t' en 'long', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(954,27): warning C4267: '+=' : conversion de 'size_t' en 'long', perte possible de données
+  ps_alignment.c
+  ps_lattice.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(451,1): warning C4244: 'initialisation' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1244,93): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1287,61): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1321,100): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1324,108): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1374,72): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1396,60): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1433,55): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1503,81): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1510,84): warning C4244: 'fonction' : conversion de 'float32' en 'int', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1593,35): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1678,40): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1684,40): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1755,84): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+  ps_mllr.c
+  ptm_mgau.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\ptm_mgau.c(843,58): warning C4244: '=' : conversion de 'int16' en 'uint8', perte possible de données
+  s2_semi_mgau.c
+  state_align_search.c
+  tmat.c
+  vector.c
+C:\sphinx\pocketsphinx\src\libpocketsphinx\vector.c(102,24): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+  Génération de code en cours...
+     Création de la bibliothèque ..\..\bin\Release\x64/pocketsphinx.lib et de l'objet ..\..\bin\Release\x64/pocketsphinx.exp
+  pocketsphinx.vcxproj -> C:\sphinx\pocketsphinx\\bin\Release\x64\pocketsphinx.dll

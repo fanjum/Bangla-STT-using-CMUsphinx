@@ -1,0 +1,3 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  main.c
+  sphinx_jsgf2fsg.vcxproj -> C:\sphinx\sphinxbase\\bin\Debug\x64\sphinx_jsgf2fsg.exe

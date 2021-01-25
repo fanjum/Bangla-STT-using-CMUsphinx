@@ -1,0 +1,38 @@
+﻿  div.c
+  kdtree.c
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(82,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(85,18): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(86,38): warning C4244: '+=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(87,18): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(89,35): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(93,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(94,18): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(96,26): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(104,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(106,25): warning C4305: '=' : troncation de 'double' à 'float'
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(107,25): warning C4056: dépassement d'une opération arithmétique de constante en virgule flottante
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(110,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(111,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(83,1): warning C4244: 'initialisation' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(144,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(148,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(154,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(155,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(173,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(184,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(189,24): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(217,28): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(303,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(312,18): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(314,18): warning C4018: '<' : incompatibilité signed/unsigned
+  kmeans.c
+C:\sphinx\sphinxtrain\src\libs\libclust\kmeans.c(95,62): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kmeans.c(107,59): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kmeans.c(148,62): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kmeans.c(164,73): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kmeans.c(611,84): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libclust\kmeans.c(621,81): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+  metric.c
+  Génération de code en cours...
+C:\sphinx\sphinxtrain\src\libs\libclust\kdtree.c(107): warning C4756: dépassement d'une opération arithmétique de constante
+  libclust.vcxproj -> C:\sphinx\sphinxtrain\win32\libs\libclust\.\..\..\..\lib\Release\x64\libclust.lib

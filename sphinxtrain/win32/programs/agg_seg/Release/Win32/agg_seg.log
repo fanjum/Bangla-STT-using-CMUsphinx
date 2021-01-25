@@ -1,0 +1,16 @@
+﻿  agg_all_seg.c
+C:\sphinx\sphinxtrain\src\programs\agg_seg\agg_all_seg.c(108,19): warning C4013: 'bio_fwrite' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\programs\agg_seg\agg_all_seg.c(150,40): warning C4018: '<' : incompatibilité signed/unsigned
+  agg_phn_seg.c
+C:\sphinx\sphinxtrain\src\programs\agg_seg\agg_phn_seg.c(107,20): warning C4013: 'str2words' non défini(e) ; extern retournant int pris par défaut
+  agg_st_seg.c
+C:\sphinx\sphinxtrain\src\programs\agg_seg\agg_st_seg.c(246,20): warning C4018: '<' : incompatibilité signed/unsigned
+  cnt_phn_seg.c
+  cnt_st_seg.c
+  main.c
+C:\sphinx\sphinxtrain\src\programs\agg_seg\main.c(231,68): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\agg_seg\main.c(236,68): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+  mk_seg.c
+  parse_cmd_ln.c
+  Génération de code en cours...
+  agg_seg.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\agg_seg\.\..\..\..\bin\Release\Win32\agg_seg.exe

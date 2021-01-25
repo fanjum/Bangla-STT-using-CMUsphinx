@@ -1,0 +1,16 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  mod_inv.c
+  gauden.c
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(72,30): warning C4305: 'initialisation' : troncation de 'double' à 'float32'
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(338,24): warning C4244: '+=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(341,30): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(343,33): warning C4244: 'return' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(360,30): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(362,34): warning C4244: 'return' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(444,29): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(475,52): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(1910,28): warning C4244: '=' : conversion de 'uint32' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(1841,1): warning C4244: 'initialisation' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libmodinv\gauden.c(2047,38): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+  Génération de code en cours...
+  libmodinv.vcxproj -> C:\sphinx\sphinxtrain\win32\libs\libmodinv\.\..\..\..\lib\Debug\Win32\libmodinv.lib

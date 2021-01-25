@@ -1,0 +1,9 @@
+﻿  accum.c
+  init_gau.c
+C:\sphinx\sphinxtrain\src\programs\init_gau\init_gau.c(227,28): warning C4013: 'str2words' non défini(e) ; extern retournant int pris par défaut
+  main.c
+C:\sphinx\sphinxtrain\src\programs\init_gau\main.c(130,68): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\init_gau\main.c(135,68): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+  parse_cmd_ln.c
+  Génération de code en cours...
+  init_gau.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\init_gau\.\..\..\..\bin\Release\x64\init_gau.exe

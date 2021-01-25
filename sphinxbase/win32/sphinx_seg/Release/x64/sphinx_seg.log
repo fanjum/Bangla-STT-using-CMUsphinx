@@ -1,0 +1,3 @@
+﻿  cont_seg.c
+C:\sphinx\sphinxbase\src\sphinx_adtools\cont_seg.c(125,50): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+  sphinx_seg.vcxproj -> C:\sphinx\sphinxbase\\bin\Release\x64\sphinx_seg.exe

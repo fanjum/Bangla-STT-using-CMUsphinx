@@ -1,0 +1,5 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  parse_cmd_ln.c
+  main.c
+  Génération de code en cours...
+  mllr_transform.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\mllr_transform\.\..\..\..\bin\Debug\x64\mllr_transform.exe

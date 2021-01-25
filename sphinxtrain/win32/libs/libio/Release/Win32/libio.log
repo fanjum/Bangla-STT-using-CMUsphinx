@@ -1,0 +1,107 @@
+﻿  corpus.c
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(238,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(249,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(271,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(1113,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(1279,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(1314,22): warning C4013: 'areadfloat' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(1318,27): warning C4013: 'areadfloat_part' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(1388,19): warning C4013: 'areadshort' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\corpus.c(1484,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+  model_def_io.c
+  pset_io.c
+C:\sphinx\sphinxtrain\src\libs\libio\pset_io.c(96,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libio\pset_io.c(110,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+  s3acc_io.c
+C:\sphinx\sphinxtrain\src\libs\libio\s3acc_io.c(268,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libio\s3acc_io.c(391,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libio\s3acc_io.c(509,23): warning C4018: '<' : incompatibilité signed/unsigned
+  s3cb2mllr_io.c
+  s3gau_full_io.c
+  s3gau_io.c
+  s3io.c
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(119,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(120,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(635,1): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(516): message : voir la déclaration de 'open'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(640,1): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(523): message : voir la déclaration de 'read'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(643,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(649,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(658,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(661,1): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(523): message : voir la déclaration de 'read'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(664,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(668,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(687,1): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(516): message : voir la déclaration de 'open'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(693,1): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(523): message : voir la déclaration de 'read'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(697,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(703,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(714,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(717,1): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(523): message : voir la déclaration de 'read'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(721,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(725,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(742,1): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(516): message : voir la déclaration de 'open'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(750,1): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(558): message : voir la déclaration de 'write'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(754,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(762,1): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(558): message : voir la déclaration de 'write'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(766,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+C:\sphinx\sphinxtrain\src\libs\libio\s3io.c(773,1): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message : voir la déclaration de 'close'
+  s3lamb_io.c
+C:\sphinx\sphinxtrain\src\libs\libio\s3lamb_io.c(85,21): warning C4013: 'bio_fread_1d' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3lamb_io.c(97,15): warning C4013: 'bio_fread' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3lamb_io.c(136,22): warning C4013: 'bio_fwrite_1d' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3lamb_io.c(141,19): warning C4013: 'bio_fwrite' non défini(e) ; extern retournant int pris par défaut
+  s3map_io.c
+C:\sphinx\sphinxtrain\src\libs\libio\s3map_io.c(88,18): warning C4013: 'bio_fread' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3map_io.c(99,21): warning C4013: 'bio_fread_1d' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3map_io.c(146,19): warning C4013: 'bio_fwrite' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3map_io.c(152,22): warning C4013: 'bio_fwrite_1d' non défini(e) ; extern retournant int pris par défaut
+  s3mixw_io.c
+C:\sphinx\sphinxtrain\src\libs\libio\s3mixw_io.c(88,21): warning C4013: 'bio_fread_3d' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3mixw_io.c(104,15): warning C4013: 'bio_fread' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3mixw_io.c(157,26): warning C4013: 'bio_fread_intv_3d' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3mixw_io.c(213,22): warning C4013: 'bio_fwrite_3d' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\s3mixw_io.c(224,19): warning C4013: 'bio_fwrite' non défini(e) ; extern retournant int pris par défaut
+  s3phseg_io.c
+  s3tmat_io.c
+C:\sphinx\sphinxtrain\src\libs\libio\s3tmat_io.c(142,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libio\s3tmat_io.c(143,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libio\s3tmat_io.c(144,20): warning C4018: '<' : incompatibilité signed/unsigned
+  s3ts2cb_io.c
+  segdmp.c
+C:\sphinx\sphinxtrain\src\libs\libio\segdmp.c(135,16): warning C4013: 'bio_fwrite' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libio\segdmp.c(199,18): warning C4013: 'bio_fread' non défini(e) ; extern retournant int pris par défaut
+  swap.c
+  topo_read.c
+  Génération de code en cours...
+  libio.vcxproj -> C:\sphinx\sphinxtrain\win32\libs\libio\.\..\..\..\lib\Release\Win32\libio.lib

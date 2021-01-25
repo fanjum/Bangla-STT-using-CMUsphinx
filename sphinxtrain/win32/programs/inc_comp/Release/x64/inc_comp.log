@@ -1,0 +1,8 @@
+﻿  accum_wt_param.c
+C:\sphinx\sphinxtrain\src\programs\inc_comp\accum_wt_param.c(90,1): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(441): message : voir la déclaration de 'access'
+  inc_densities.c
+  main.c
+  parse_cmd_ln.c
+  Génération de code en cours...
+  inc_comp.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\inc_comp\.\..\..\..\bin\Release\x64\inc_comp.exe

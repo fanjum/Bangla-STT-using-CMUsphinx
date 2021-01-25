@@ -1,0 +1,4 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  cont_seg.c
+C:\sphinx\sphinxbase\src\sphinx_adtools\cont_seg.c(125,50): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+  sphinx_seg.vcxproj -> C:\sphinx\sphinxbase\\bin\Debug\x64\sphinx_seg.exe

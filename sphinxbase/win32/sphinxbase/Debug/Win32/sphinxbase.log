@@ -1,0 +1,88 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  strfuncs.c
+  slapack_lite.c
+C:\sphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1041,33): warning C4244: '=' : conversion de 'doublereal' en 'real', perte possible de données
+C:\sphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1046,21): warning C4244: '=' : conversion de 'double' en 'real', perte possible de données
+C:\sphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1074,22): warning C4244: '=' : conversion de 'doublereal' en 'real', perte possible de données
+C:\sphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1079,21): warning C4244: '=' : conversion de 'double' en 'real', perte possible de données
+  slamch.c
+  sbthread.c
+  profile.c
+  priority_queue.c
+  pio.c
+  mmio.c
+  matrix.c
+C:\sphinx\sphinxbase\src\libsphinxbase\util\matrix.c(71,20): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+  logmath.c
+  listelem_alloc.c
+  heap.c
+  hash_table.c
+  glist.c
+  genrand.c
+  filename.c
+  f2c_lite.c
+  err.c
+  dtoa.c
+  cmd_ln.c
+C:\sphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(152,14): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\sphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(333,17): warning C4090: 'fonction' : qualificateurs 'const' différents
+  Génération de code en cours...
+  Compilation en cours...
+  ckd_alloc.c
+  case.c
+  blas_lite.c
+  bitvec.c
+  bitarr.c
+  bio.c
+  ngram_model_trie.c
+  ngram_model_set.c
+  ngram_model.c
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\ngram_model.c(980,44): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+  lm_trie_quant.c
+  lm_trie.c
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(213,27): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(295,27): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(300,35): warning C4018: '<' : incompatibilité signed/unsigned
+  ngrams_raw.c
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(56,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(56,42): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(91,42): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(102,33): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(116,46): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  jsgf_scanner.c
+jsgf_scanner.c(927,23): warning C4018: '<' : incompatibilité signed/unsigned
+_jsgf_scanner.l(84,36): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+jsgf_scanner.c(1300,1): warning C4018: '<' : incompatibilité signed/unsigned
+jsgf_scanner.c(1829,17): warning C4018: '<' : incompatibilité signed/unsigned
+  jsgf_parser.c
+  jsgf.c
+  fsg_model.c
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(663,35): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(866,71): warning C4244: 'fonction' : conversion de 'float32' en 'int', perte possible de données
+  yin.c
+  fixlog.c
+  fe_warp_piecewise_linear.c
+  fe_warp_inverse_linear.c
+  Génération de code en cours...
+  Compilation en cours...
+  fe_warp.c
+  fe_warp_affine.c
+  fe_sigproc.c
+  fe_prespch_buf.c
+  fe_noise.c
+  fe_interface.c
+C:\sphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(471,52): warning C4267: '+=' : conversion de 'size_t' en 'int16', perte possible de données
+  lda.c
+  feat.c
+C:\sphinx\sphinxbase\src\libsphinxbase\feat\feat.c(370,5): warning C4018: '>=' : incompatibilité signed/unsigned
+C:\sphinx\sphinxbase\src\libsphinxbase\feat\feat.c(404,5): warning C4018: '>=' : incompatibilité signed/unsigned
+C:\sphinx\sphinxbase\src\libsphinxbase\feat\feat.c(820,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxbase\src\libsphinxbase\feat\feat.c(900,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxbase\src\libsphinxbase\feat\feat.c(903,23): warning C4018: '<' : incompatibilité signed/unsigned
+  cmn_live.c
+  cmn.c
+  agc.c
+  ad_win32.c
+  Génération de code en cours...
+     Création de la bibliothèque ../../bin/Debug/Win32/sphinxbase.lib et de l'objet ../../bin/Debug/Win32/sphinxbase.exp
+  sphinxbase.vcxproj -> C:\sphinx\sphinxbase\\bin\Debug\Win32\sphinxbase.dll

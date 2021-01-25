@@ -1,0 +1,28 @@
+﻿  mk_s2sendump.c
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(105,26): warning C4267: '=' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(121,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(142,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(152,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(157,32): warning C4018: '>' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(213,26): warning C4267: '=' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(219,40): warning C4267: 'fonction' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(222,40): warning C4267: 'fonction' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(225,40): warning C4267: 'fonction' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(240,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\mk_s2sendump.c(247,16): warning C4018: '<' : incompatibilité signed/unsigned
+  parse_cmd_ln.c
+  senone.c
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(122,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(134,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(164,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(171,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(177,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(186,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(190,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(260,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(265,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(293,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(298,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_s2sendump\senone.c(307,40): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+  Génération de code en cours...
+  mk_s2sendump.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\mk_s2sendump\.\..\..\..\bin\Release\x64\mk_s2sendump.exe

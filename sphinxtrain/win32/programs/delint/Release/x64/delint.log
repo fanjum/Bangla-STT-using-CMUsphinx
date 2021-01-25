@@ -1,0 +1,13 @@
+﻿  interp_fn.c
+C:\sphinx\sphinxtrain\src\programs\delint\interp_fn.c(103,38): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\delint\interp_fn.c(123,62): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\delint\interp_fn.c(96,1): warning C4244: 'initialisation' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\delint\interp_fn.c(161,35): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\delint\interp_fn.c(196,73): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\delint\interp_fn.c(198,73): warning C4244: '+=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\delint\interp_fn.c(205,1): warning C4244: 'initialisation' : conversion de 'double' en 'float32', perte possible de données
+  main.c
+C:\sphinx\sphinxtrain\src\programs\delint\main.c(366,45): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+  parse_cmd_ln.c
+  Génération de code en cours...
+  delint.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\delint\.\..\..\..\bin\Release\x64\delint.exe

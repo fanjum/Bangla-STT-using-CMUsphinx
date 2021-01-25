@@ -1,0 +1,29 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  parse_cmd_ln.c
+  main.c
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(262,15): warning C4013: 'bio_fread' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(453,68): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(458,68): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(586,17): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(587,18): warning C4244: '=' : conversion de 'float32' en 'uint32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(644,19): warning C4244: 'return' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(923,23): warning C4244: '+=' : conversion de 'float64' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(930,23): warning C4244: '*=' : conversion de 'float64' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(983,30): warning C4244: '*=' : conversion de 'float64' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1085,51): warning C4305: '=' : troncation de 'double' à 'float'
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1106,42): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1117,20): warning C4244: '+=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1119,38): warning C4244: '+=' : conversion de 'float64' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1124,30): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1126,34): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1158,45): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1173,25): warning C4244: '+=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1175,23): warning C4244: '+=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1183,38): warning C4244: '+=' : conversion de 'float64' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1186,38): warning C4244: '+=' : conversion de 'float64' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1222,30): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1226,33): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\programs\kmeans_init\main.c(1383,1): warning C4018: '>' : incompatibilité signed/unsigned
+  Génération de code en cours...
+main.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+  kmeans_init.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\kmeans_init\.\..\..\..\bin\Debug\Win32\kmeans_init.exe

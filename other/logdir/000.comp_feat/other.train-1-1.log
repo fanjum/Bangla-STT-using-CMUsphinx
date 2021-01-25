@@ -1,0 +1,300 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					C:/Users/farha/Desktop/sphinx/other/etc/other_train.fileids
+-cep2spec		no		no
+-di					C:/Users/farha/Desktop/sphinx/other/wav
+-dither			no		no
+-do					C:/Users/farha/Desktop/sphinx/other/feat
+-doublebw		no		no
+-ei					wav
+-eo					mfc
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	1.300000e+02
+-mach_endian		little		little
+-mswav			no		yes
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		25
+-nist			no		no
+-npart			0		1
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		1
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		yes		yes
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		1.600000e+04
+-seed			-1		-1
+-smoothspec		no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	6.800000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		3.0		3.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(971): Processing all remaining utterances at position 0
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1001.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1001.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1002.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1002.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1003.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1003.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1004.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1004.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1005.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1005.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1006.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1006.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1007.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1007.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1008.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1008.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1009.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1009.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1010.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1010.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1011.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1011.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1012.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1012.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1013.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1013.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1014.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1014.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1015.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1015.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1016.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1016.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1017.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1017.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1018.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1018.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1019.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1019.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1020.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1020.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1021.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1021.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1022.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1022.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1023.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1023.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1024.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1024.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1025.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1025.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1026.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1026.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1027.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1027.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1028.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1028.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1029.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1029.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1030.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1030.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1031.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1031.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1032.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1032.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1033.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1033.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1034.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1034.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1035.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1035.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1036.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1036.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1037.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1037.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1038.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1038.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1039.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1039.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1040.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1040.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1041.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1041.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1042.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1042.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1043.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1043.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1044.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1044.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1045.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1045.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1046.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1046.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1047.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1047.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1048.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1048.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1049.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1049.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1050.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1050.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1051.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1051.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1052.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1052.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1053.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1053.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1054.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1054.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1055.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1055.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1056.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1056.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1057.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1057.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1058.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1058.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1059.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1059.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1060.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1060.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1061.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1061.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1062.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1062.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1063.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1063.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1064.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1064.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1065.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1065.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1066.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1066.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1067.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1067.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1068.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1068.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1069.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1069.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1070.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1070.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1071.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1071.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1072.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1072.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1073.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1073.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1074.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1074.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1075.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1075.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1076.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1076.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1077.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1077.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1078.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1078.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1079.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1079.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Male1/1080.wav to C:/Users/farha/Desktop/sphinx/other/feat/Male1/1080.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3001.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3001.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3002.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3002.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3003.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3003.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3004.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3004.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3005.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3005.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3006.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3006.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3007.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3007.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3008.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3008.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3009.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3009.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3010.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3010.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3011.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3011.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3012.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3012.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3013.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3013.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3014.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3014.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3015.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3015.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3016.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3016.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3017.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3017.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3018.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3018.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3019.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3019.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3020.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3020.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3021.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3021.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3022.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3022.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3023.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3023.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3024.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3024.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3025.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3025.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3026.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3026.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3027.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3027.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3028.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3028.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3029.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3029.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3030.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3030.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3031.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3031.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3032.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3032.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3033.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3033.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3034.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3034.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3035.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3035.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3036.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3036.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3037.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3037.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3038.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3038.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3039.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3039.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3040.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3040.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3041.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3041.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3042.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3042.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3043.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3043.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3044.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3044.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3045.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3045.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3046.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3046.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3047.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3047.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3048.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3048.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3049.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3049.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3050.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3050.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3051.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3051.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3052.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3052.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3053.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3053.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3054.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3054.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3055.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3055.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3056.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3056.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3057.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3057.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3058.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3058.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3059.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3059.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3060.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3060.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3061.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3061.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3062.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3062.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3063.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3063.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3064.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3064.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3065.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3065.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3066.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3066.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3067.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3067.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3068.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3068.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3069.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3069.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3070.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3070.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3071.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3071.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3072.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3072.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3073.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3073.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3074.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3074.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3075.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3075.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3076.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3076.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3077.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3077.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3078.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3078.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3079.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3079.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female1/3080.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female1/3080.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4001.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4001.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4002.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4002.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4003.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4003.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4004.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4004.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4005.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4005.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4006.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4006.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4007.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4007.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4008.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4008.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4009.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4009.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4010.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4010.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4011.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4011.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4012.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4012.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4013.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4013.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4014.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4014.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4015.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4015.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4016.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4016.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4017.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4017.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4018.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4018.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4019.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4019.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4020.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4020.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4021.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4021.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4022.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4022.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4023.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4023.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4024.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4024.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4025.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4025.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4026.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4026.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4027.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4027.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4028.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4028.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4029.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4029.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4030.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4030.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4031.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4031.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4032.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4032.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4033.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4033.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4034.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4034.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4035.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4035.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4036.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4036.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4037.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4037.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4038.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4038.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4039.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4039.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4040.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4040.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4041.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4041.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4042.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4042.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4043.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4043.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4044.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4044.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4045.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4045.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4046.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4046.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4047.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4047.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4048.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4048.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4049.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4049.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4050.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4050.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4051.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4051.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4052.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4052.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4053.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4053.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4054.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4054.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4055.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4055.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4056.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4056.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4057.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4057.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4058.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4058.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4059.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4059.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4060.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4060.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4061.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4061.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4062.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4062.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4063.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4063.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4064.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4064.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4065.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4065.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4066.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4066.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4067.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4067.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4068.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4068.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4069.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4069.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4070.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4070.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4071.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4071.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4072.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4072.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4073.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4073.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4074.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4074.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4075.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4075.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4076.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4076.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4077.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4077.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4078.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4078.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4079.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4079.mfc
+INFO: sphinx_fe.c(791): Converting C:/Users/farha/Desktop/sphinx/other/wav/Female2/4080.wav to C:/Users/farha/Desktop/sphinx/other/feat/Female2/4080.mfc
+Sun Jan 10 23:30:03 2021

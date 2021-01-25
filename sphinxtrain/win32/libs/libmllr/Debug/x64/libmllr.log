@@ -1,0 +1,5 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  mllr_io.c
+  mllr.c
+  Génération de code en cours...
+  libmllr.vcxproj -> C:\sphinx\sphinxtrain\win32\libs\libmllr\.\..\..\..\lib\Debug\x64\libmllr.lib

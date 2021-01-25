@@ -1,0 +1,66 @@
+﻿  acmod_set.c
+C:\sphinx\sphinxtrain\src\libs\libcommon\acmod_set.c(211,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libcommon\acmod_set.c(272,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\libs\libcommon\acmod_set.c(884,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+  best_q.c
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(199,36): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(214,34): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(224,59): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(226,80): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(232,57): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(234,80): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(244,69): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(245,34): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(341,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(438,26): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(446,45): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(448,74): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(532,24): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(539,36): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(540,49): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(559,24): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(566,36): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(567,49): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(580,57): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\best_q.c(581,27): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+  ck_seg.c
+  cvt2triphone.c
+  dtree.c
+C:\sphinx\sphinxtrain\src\libs\libcommon\dtree.c(728,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libcommon\dtree.c(758,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libcommon\dtree.c(893,48): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\dtree.c(920,20): warning C4244: '=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\dtree.c(970,24): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\dtree.c(1700,23): warning C4244: 'fonction' : conversion de 'float64' en 'float32', perte possible de données
+  heap.c
+  itree.c
+  lexicon.c
+C:\sphinx\sphinxtrain\src\libs\libcommon\lexicon.c(202,21): warning C4013: 'str2words' non défini(e) ; extern retournant int pris par défaut
+C:\sphinx\sphinxtrain\src\libs\libcommon\lexicon.c(185,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+  mk_phone_list.c
+  mk_phone_seq.c
+C:\sphinx\sphinxtrain\src\libs\libcommon\mk_phone_seq.c(71,23): warning C4013: 'str2words' non défini(e) ; extern retournant int pris par défaut
+  mk_sseq.c
+  mk_trans_seq.c
+  mk_ts2ci.c
+  quest.c
+C:\sphinx\sphinxtrain\src\libs\libcommon\quest.c(492,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libcommon\quest.c(493,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libcommon\quest.c(517,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libcommon\quest.c(521,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libcommon\quest.c(638,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\libs\libcommon\quest.c(640,15): warning C4018: '<' : incompatibilité signed/unsigned
+  remap.c
+C:\sphinx\sphinxtrain\src\libs\libcommon\remap.c(67,27): warning C4244: '=' : conversion de 'double' en 'uint32', perte possible de données
+  state_seq.c
+  ts2cb.c
+  vector.c
+C:\sphinx\sphinxtrain\src\libs\libcommon\vector.c(98,15): warning C4244: '/=' : conversion de 'float64' en 'float', perte possible de données
+C:\sphinx\sphinxtrain\src\libs\libcommon\vector.c(119,17): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+  was_added.c
+  Génération de code en cours...
+  libcommon.vcxproj -> C:\sphinx\sphinxtrain\win32\libs\libcommon\.\..\..\..\lib\Release\Win32\libcommon.lib

@@ -1,0 +1,3 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  sphinx_lm_convert.c
+  sphinx_lm_convert.vcxproj -> C:\sphinx\sphinxbase\\bin\Debug\Win32\sphinx_lm_convert.exe

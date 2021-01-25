@@ -1,0 +1,6 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  main.c
+C:\sphinx\sphinxtrain\src\programs\map_adapt\main.c(511,27): warning C4013: 's3ts2cb_read' non défini(e) ; extern retournant int pris par défaut
+  cmd_ln.c
+  Génération de code en cours...
+  map_adapt.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\map_adapt\.\..\..\..\bin\Debug\x64\map_adapt.exe

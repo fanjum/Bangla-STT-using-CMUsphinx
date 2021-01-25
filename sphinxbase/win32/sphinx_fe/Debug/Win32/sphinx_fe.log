@@ -1,0 +1,5 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  sphinx_fe.c
+C:\sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(187,1): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(398,27): warning C4018: '<' : incompatibilité signed/unsigned
+  sphinx_fe.vcxproj -> C:\sphinx\sphinxbase\\bin\Debug\Win32\sphinx_fe.exe

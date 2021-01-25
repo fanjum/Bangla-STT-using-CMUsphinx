@@ -1,0 +1,54 @@
+﻿  hash.c
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\hash.c(93,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\hash.c(94,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\hash.c(95,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\hash.c(96,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\hash.c(164,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\hash.c(230,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+  heap.c
+  main.c
+  mk_mdef_gen.c
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(174,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(306,27): warning C4018: '>' : incompatibilité signed/unsigned
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(293,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(488,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(670,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(671,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(672,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(673,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(710,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(732,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(733,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(734,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(735,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(914,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(919,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(920,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(921,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+C:\sphinx\sphinxtrain\src\programs\mk_mdef_gen\mk_mdef_gen.c(922,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : voir la déclaration de 'strdup'
+  parse_cmd_ln.c
+  Génération de code en cours...
+  mk_mdef_gen.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\mk_mdef_gen\.\..\..\..\bin\Release\Win32\mk_mdef_gen.exe

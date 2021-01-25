@@ -1,0 +1,5 @@
+﻿  cmd_ln.c
+  main.c
+C:\sphinx\sphinxtrain\src\programs\map_adapt\main.c(511,27): warning C4013: 's3ts2cb_read' non défini(e) ; extern retournant int pris par défaut
+  Génération de code en cours...
+  map_adapt.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\map_adapt\.\..\..\..\bin\Release\x64\map_adapt.exe

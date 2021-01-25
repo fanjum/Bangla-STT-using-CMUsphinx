@@ -1,0 +1,6 @@
+﻿  sphinx_fe.c
+C:\sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(187,1): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(404,56): warning C4267: 'fonction' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(410,23): warning C4267: '=' : conversion de 'size_t' en 'int32', perte possible de données
+C:\sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(450,60): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  sphinx_fe.vcxproj -> C:\sphinx\sphinxbase\\bin\Release\x64\sphinx_fe.exe

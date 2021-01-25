@@ -1,0 +1,5 @@
+﻿  main.c
+C:\sphinx\sphinxtrain\src\programs\mk_flat\main.c(137,38): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+  parse_cmd_ln.c
+  Génération de code en cours...
+  mk_flat.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\mk_flat\.\..\..\..\bin\Release\x64\mk_flat.exe

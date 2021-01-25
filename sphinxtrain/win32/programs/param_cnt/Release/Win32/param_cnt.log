@@ -1,0 +1,10 @@
+﻿  cb_cnt.c
+  enum_corpus.c
+C:\sphinx\sphinxtrain\src\programs\param_cnt\enum_corpus.c(116,20): warning C4013: 'str2words' non défini(e) ; extern retournant int pris par défaut
+  main.c
+  param_cnt.c
+  parse_cmd_ln.c
+  phone_cnt.c
+  ts_cnt.c
+  Génération de code en cours...
+  param_cnt.vcxproj -> C:\sphinx\sphinxtrain\win32\programs\param_cnt\.\..\..\..\bin\Release\Win32\param_cnt.exe
